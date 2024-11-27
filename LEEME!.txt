@@ -1,0 +1,12 @@
+
+Para ejecutar el scrip solo ingresa a la ruta: de dist/extract-data/ y se encontrara
+el ejecutable con nombre : Script-extract-data.exe , presionar click derecho "enviar a" - "Escritorio"
+
+Esto creara un acceso directo en el escritorio.
+
+
+
+
+
+
+
